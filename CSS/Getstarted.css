@@ -1,0 +1,29 @@
+body {
+    /*CSS RULE*/
+    background: linear-gradient(45deg,rgba(128, 0, 128, 0.626),rgba(0, 0, 0, 0.8597)),url(../images/stark.jpg);
+    
+}
+
+h1 {
+    margin-left: 36%;
+    font-size: 50px;
+}
+
+form {
+    margin-left: 50px;
+    font-size: 30px;
+    
+}
+
+.old {
+    border: 2px solid white;
+    padding: 8px 15px;
+    border-radius:10px ;
+    margin-left: 20px;
+   background-color: orangered;
+   list-style:none;
+   text-decoration: none;
+   color: #ffff;
+   margin-left: 0px;
+}
+
